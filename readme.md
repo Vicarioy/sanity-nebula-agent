@@ -30,7 +30,7 @@ GEMINI_API_KEY=your-gemini-api-key
 SANITY_API_TOKEN=your-sanity-api-token
 ```
 
-The Sanity token must have permission to read the `production` dataset in project `uyvc8si1`. Keep `.env` private and do not commit it.
+The Sanity token must have permission to read the `production` dataset in project.
 
 Start the agent from the `agent` directory:
 
